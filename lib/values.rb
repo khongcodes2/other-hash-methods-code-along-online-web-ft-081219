@@ -9,5 +9,5 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  #coded your solution here!
+  groceries.keys
 end
